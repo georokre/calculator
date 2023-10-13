@@ -293,22 +293,8 @@
         width: 75px;
         margin: 5px;
     }
-    #calculator {
-        width: calc(4*75px + 6*5px - 2*10px);
-        margin: auto;
-    }
-    #display {
-        height: 75px;
-        width: calc(4*75px + 6*5px - 2*10px);
-        margin: 5px;
-        padding:10px;
-        /* float: left; */
-        border:white solid 1px;
-        text-align: right;
-        overflow:hidden;
-        white-space:nowrap;
-           
-    }
+    
+    
     #ans {
         
         height:25px;
