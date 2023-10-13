@@ -288,31 +288,5 @@
 
 
 <style>
-    * :global(.calcButton) {
-        height: 50px;
-        width: 75px;
-        margin: 5px;
-    }
     
-    
-    #ans {
-        
-        height:25px;
-        line-height:25px;
-        float: right;
-    } 
-    #output {
-        
-        height:50px;
-        line-height:50px;
-        font-size: 24px;
-        float:right;
-        clear:right;
-    }
-    
-    .calcRow{
-        display: flex;
-        width: 500px;
-        
-    }
 </style>
